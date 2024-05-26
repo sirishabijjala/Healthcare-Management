@@ -1,0 +1,16 @@
+.button-container {
+    display: flex;
+  }
+  .button1 {
+    margin-right: 0;
+    margin-left: 2%; /* Adjust margin as needed */
+  }
+  .contain1{
+    margin-left: 30%;
+    }
+    .ml{
+        margin-left: 13%;
+    }
+    .sl{
+      margin-left: 33%;
+    }
